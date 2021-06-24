@@ -76,6 +76,18 @@
 
 }
 
+
+
+
+/*Imagenes-cuerpo*/
+.imagenes-cuerpo{
+    text-align: center;
+}
+
+.joyas{
+    border: solid gray;
+    border-radius: 30px;
+}
 /* estilos del footer */
 
 #pie{
@@ -84,3 +96,5 @@
     height: 50px;
     background: #ccc;
 }
+
+
