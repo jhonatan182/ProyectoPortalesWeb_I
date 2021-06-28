@@ -1,0 +1,103 @@
+/*
+
+.descripcion > .titulo{
+    font-size: 27px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #3f3f3f;
+    transition: all 400ms;
+
+}
+
+.descripcion > .titulo:hover{
+    color: #51aa78;
+    cursor: pointer;
+    transition: all 400ms;
+}
+
+#interior.galeria{
+	margin:auto;
+	width:70%;
+}
+
+#contenido.galeria{
+	float:left;
+	margin-bottom:10px;
+	margin:0;
+	padding:0;
+	width:75%;	
+}
+
+.contenido_galeria{
+	background:#FFFFFF;
+	border:1px solid #5A5A5A;
+	line-height:17px;
+	margin-top:10px;
+	padding:0;
+	width:100%;	
+	
+}
+}*/
+
+
+.descripcion{
+   
+    margin-top: 100px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.contenedor{
+    width: 1150px;
+    height: 500px;
+    margin: 0px auto;
+    background-color:rgb(255, 255, 255);
+
+}
+
+.galeria img{
+	box-shadow:0px 0px 10px #000000;
+	border-spacing:10px;
+	display:inline;
+	margin:10px;
+	padding:5px;
+	opacity:2;
+	transition-duration:1s;
+	width:180px;
+    height: 210px;
+}
+.galeria img:hover{
+	border-spacing:10px;
+	opacity:1;
+	transition-duration:1s;
+}
+.galeria{
+
+	border:3px solid #ffffff;
+	width:1150px;
+    height:490px;
+    margin: 0px auto;
+    position:relative;
+	
+}
+
+#redes-sociales{
+    width: 35px;
+    height: 35px;
+    top: 300px;
+    position: fixed;
+
+}
+#redes-sociales img{
+    width: 100%;
+    height: 100%;
+    transition: all 800ms;
+
+}
+
+#redes-sociales img:hover{
+    transform: scale(1.2,1.2);
+    margin-left: 20px;
+    transition: all 800ms;
+    box-shadow: gray -9px 0px 12px;
+}
