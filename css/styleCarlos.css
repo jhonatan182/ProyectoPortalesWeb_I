@@ -1,76 +1,9 @@
 
-*{
-    padding: 0px;
-    margin: 0px;
-}
-
 body{
     margin: auto 0; 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 22px;
     font-weight: normal;
-}
-
-/*encabezado, logo e iconos*/
-header{
-    width: 100%;
-    height: 90px;
-    background-color: black;
-}
-
-#logo{
-    float: left;
-    width: 50px;
-    height: 50px;
-    margin-left: 50%;
-    margin-top: 15px;
-}
-
-#carrito{
-    float: right;
-    width: 50px;
-    height: 50px;
-    margin-right: 50px;
-    margin-top: 15px;
-}
-
-#icon{
-    width: 50px;
-    height: 50px;
-}
-
-/*menu*/
-#menu{
-    width: 100%;
-    height: 43px;
-    background-color: #FFD700;
-    display: block;
-}
-
-ul{
-    text-align: center;
-    margin-left: 20px;
-    margin-right: 20px;
-    overflow: hidden;
-}
-
-li{
-    display: inline;
-    line-height: 40px;
-    transition: all 300ms;
-}
-
-a{
-    color: black;
-    padding: 50px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 20px;
-    font-weight: bolder;
-    text-decoration:none;
-}
-
-a:hover{
-    background-color: #efb810;
 }
 
 /*form*/
@@ -106,24 +39,6 @@ a:hover{
 #iconDiamantes{
     height: 120px;
 }
-
-/*foot*/
-footer{
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
-    width: 100%;
-    height: 100px;
-    position: fixed;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-weight: 580;
-    font-size: 20px;
-    text-align: center;
-    color: white;
-    background-color: black;
-}
-
-
 
 
 
