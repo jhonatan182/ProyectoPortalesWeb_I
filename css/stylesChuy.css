@@ -27,7 +27,7 @@
     border-radius: 200px;
     font-style:inherit;
     text-align: center;
-    font-family: 'Permanet Marker', cursive;
+    font-family: 'open sans';
 }
 .video{
     padding-right: 10%;
@@ -36,7 +36,7 @@
 
 .p{
     display: inline;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'open sans';
     font-size: 15px;
     width: 15%;
     float: left;

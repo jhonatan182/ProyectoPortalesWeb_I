@@ -6,16 +6,13 @@
 }
 
 body{
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 22px;
-    font-weight: normal;
+    font-family: 'open sans';
 }
 
 #contenedor-grid{
     display: grid;
     grid-template-columns: 100%;
-    grid-template-rows: 90px  40px;
-
+    grid-template-rows: 90px  43px;
     width: 100%;
 }
 
@@ -117,10 +114,6 @@ h2{
     color: #FFD700;
 }
 
-
-/* .imagen-diamante{
-    background-color: khaki;
-} */
 
 .imagen-diamante{
     text-align: center;

@@ -1,50 +1,8 @@
-/*
-
-.descripcion > .titulo{
-    font-size: 27px;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    color: #3f3f3f;
-    transition: all 400ms;
-
-}
-
-.descripcion > .titulo:hover{
-    color: #51aa78;
-    cursor: pointer;
-    transition: all 400ms;
-}
-
-#interior.galeria{
-	margin:auto;
-	width:70%;
-}
-
-#contenido.galeria{
-	float:left;
-	margin-bottom:10px;
-	margin:0;
-	padding:0;
-	width:75%;	
-}
-
-.contenido_galeria{
-	background:#FFFFFF;
-	border:1px solid #5A5A5A;
-	line-height:17px;
-	margin-top:10px;
-	padding:0;
-	width:100%;	
-	
-}
-}*/
-
-
 .descripcion{
    
     margin-top: 100px;
     text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'open sans';
 }
 
 .contenedor{
