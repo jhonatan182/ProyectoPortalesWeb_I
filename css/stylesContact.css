@@ -32,14 +32,14 @@ h2{
 
 article{
     color: black;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'open sans';
     font-size: 20px;
     margin-left: 20%;
 }
 
 label{
     color: black;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'open sans';
     font-size: 20px;
     text-align: right;
     margin: 20%;
