@@ -77,7 +77,7 @@
 /* estilos del footer */
 
 footer{
-    background: #414141;
+    background: #000000;
     padding: 60px 0 30px 0;
     margin: auto;
     overflow: hidden;
@@ -99,7 +99,7 @@ footer{
 
 .content-foo h4{
     color: #fff;
-    border-bottom: 3px solid #af20d3;
+    border-bottom: 3px solid #FFD700;
     padding-bottom: 5px;
     margin-bottom: 10px;
 }
