@@ -35,8 +35,8 @@ main .sobre-nosotros{
 }
 
 .imagen-about-us{
-    width: 48%;
-    height: 48%;
+    width: 25%;
+    height: 25%;
  
 }
 
@@ -49,7 +49,7 @@ main .sobre-nosotros{
 }
 
 .contenido-textos h3 span{
-    background: #4d0686;
+    background: #FFD700;
     color: #fff;
     border-radius: 50%;
     display: inline-block;
